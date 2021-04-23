@@ -8,11 +8,11 @@
     <nav class="menu" style="height: 90px;">
         <img src="..\images\popcorn1.png" class="pop">
         <div class="logo">
-            <a href="..\pages\accueil.html">Stranded In Space</a>
+            <a href="..\index.html">Stranded In Space</a>
         </div>
         <ul class="links">
             <li>
-                <a href="../pages/lejeu.html">Le jeu</a>
+                <a href="lejeu.html">Le jeu</a>
                 <!--on voudra rajouter un menu deroulant, avec possibilité d'accéder a différentes parties de la page en cliquant sur le lien-->
             </li>
             <li>
@@ -95,7 +95,7 @@
                 <input type="submit" value="S'inscrire">
             </form>
             <p>
-                Déjà inscrit? Connectez-vous en cliquant <a href="../pages/connexion.php">ici.</a>
+                Déjà inscrit? Connectez-vous en cliquant <a href="connexion.php">ici.</a>
             </p>
             <?php } ?>
     </p>

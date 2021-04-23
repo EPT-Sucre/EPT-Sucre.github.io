@@ -1,6 +1,6 @@
 <html lang="fr">
 <head>
-    <link href="..\pages_css\accueil.css" rel="stylesheet" type="text/css" />
+    <link href="../pages_css\accueil.css" rel="stylesheet" type="text/css" />
     <meta charset="utf-8" />
     <title>Stranded In Space</title>
 </head>
@@ -8,11 +8,11 @@
     <nav class="menu" style="height: 90px;">
         <img src="..\images\popcorn1.png" class="pop">
         <div class="logo">
-            <a href="..\pages\accueil.html">Stranded In Space</a>
+            <a href="..\index.html">Stranded In Space</a>
         </div>
         <ul class="links">
             <li>
-                <a href="../pages/lejeu.html">Le jeu</a>
+                <a href="lejeu.html">Le jeu</a>
                 <!--on voudra rajouter un menu deroulant, avec possibilité d'accéder a différentes parties de la page en cliquant sur le lien-->
             </li>
             <li>
